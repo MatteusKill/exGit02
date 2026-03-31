@@ -1,0 +1,8 @@
+@import url('menu.css');
+
+root{
+    --cor-letra-titulo: rgb(0, 0, 0);
+    --cor-letra-subtitulo: rgb(150, 150, 150);
+    
+
+}
